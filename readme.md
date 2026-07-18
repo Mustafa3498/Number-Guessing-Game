@@ -2,9 +2,6 @@
 
 A sleek, modern, and fully responsive single-file web application built with vanilla HTML, CSS, and JavaScript. Challenge your intuition by finding the secret number between 1 and 100 in 10 attempts or less!
 
-## 🚀 Live Demo
-🔗 [View Live Project](YOUR_GITHUB_PAGES_LINK_HERE) *(Replace this with your GitHub Pages link)*
-
 ---
 
 ## ✨ Features
